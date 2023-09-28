@@ -26,4 +26,4 @@ Staff
 Store
 
 # Visualizations
-Visualizations were created in Tableau. The link to the storyboard can be found here: [RockBuster Data](https://public.tableau.com/app/profile/ioana.rusu2529/viz/RockbusterData_16935112689310/RockbusterMovieDataStory)
+Visualizations were created in Tableau and a presentation was made in PowerPoint. The link to the storyboard can be found here: [Tableau RockBuster Data](https://public.tableau.com/app/profile/ioana.rusu2529/viz/RockbusterData_16935112689310/RockbusterMovieDataStory)
