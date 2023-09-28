@@ -8,22 +8,7 @@ Our collaboration with Rockbusters Business Intelligence team will assist in the
 The data was provided by Rockbuster in the Project Brief. The data set worked on contained the following information:
 
 # Fact Tables
-Payment
-Rental
-Dimension Tables
-Actor
-Address
-Category
-City
-Country
-Customer
-Fim
-Film Actor
-Film Category
-Inventory
-Language
-Staff
-Store
+Payment, Rental, Dimension Tables, Actor, Address, Category, City, Country, Customer, Fim, Film Actor, Film Category, Inventory, Language, Staff, Store
 
 # Visualizations
 Visualizations were created in Tableau and a presentation was made in PowerPoint. The link to the storyboard can be found here: [Tableau RockBuster Data](https://public.tableau.com/app/profile/ioana.rusu2529/viz/RockbusterData_16935112689310/RockbusterMovieDataStory)
