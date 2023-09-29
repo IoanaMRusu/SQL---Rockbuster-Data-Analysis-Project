@@ -5,7 +5,7 @@ Rockbuster is a movie rental company that used to have stores around the world. 
 Our collaboration with Rockbusters Business Intelligence team will assist in the launch of the new online service's strategy. The dataset provided is composed of a relational database containing details about the current clients.
 
 # Data
-The data was provided by Rockbuster in the Project Brief. The data set worked on contained the following information:
+The data was provided by Rockbuster in the Project Brief. The data set worked on contained film inventory, customers, payments, among other things.
 
 # Fact Tables
 Payment, Rental, Dimension Tables, Actor, Address, Category, City, Country, Customer, Fim, Film Actor, Film Category, Inventory, Language, Staff, Store
